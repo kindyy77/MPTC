@@ -1,0 +1,14 @@
+C:\Users\Роман\source\repos\MPT#C\MPT#C\bin\Debug\net6.0\MPT#C.exe
+C:\Users\Роман\source\repos\MPT#C\MPT#C\bin\Debug\net6.0\MPT#C.deps.json
+C:\Users\Роман\source\repos\MPT#C\MPT#C\bin\Debug\net6.0\MPT#C.runtimeconfig.json
+C:\Users\Роман\source\repos\MPT#C\MPT#C\bin\Debug\net6.0\MPT#C.dll
+C:\Users\Роман\source\repos\MPT#C\MPT#C\bin\Debug\net6.0\MPT#C.pdb
+C:\Users\Роман\source\repos\MPT#C\MPT#C\obj\Debug\net6.0\MPT#C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\source\repos\MPT#C\MPT#C\obj\Debug\net6.0\MPT#C.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\MPT#C\MPT#C\obj\Debug\net6.0\MPT#C.AssemblyInfo.cs
+C:\Users\Роман\source\repos\MPT#C\MPT#C\obj\Debug\net6.0\MPT#C.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\MPT#C\MPT#C\obj\Debug\net6.0\MPT#C.dll
+C:\Users\Роман\source\repos\MPT#C\MPT#C\obj\Debug\net6.0\refint\MPT#C.dll
+C:\Users\Роман\source\repos\MPT#C\MPT#C\obj\Debug\net6.0\MPT#C.pdb
+C:\Users\Роман\source\repos\MPT#C\MPT#C\obj\Debug\net6.0\MPT#C.genruntimeconfig.cache
+C:\Users\Роман\source\repos\MPT#C\MPT#C\obj\Debug\net6.0\ref\MPT#C.dll
